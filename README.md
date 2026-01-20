@@ -1,4 +1,4 @@
-# Metrocuadrado Property Listings Dataset Sample
+# Metrocuadrado Property Listings データセットサンプル
 
 <h2>3,386件のレコードからなるサンプルデータセット</h2>
 
