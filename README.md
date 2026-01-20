@@ -1,60 +1,60 @@
 # Metrocuadrado Property Listings Dataset Sample
 
-<h2>A sample dataset of 3,386 records</h2>
+<h2>3,386件のレコードからなるサンプルデータセット</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.jp">
     <img src="https://github.com/luminati-io/Metrocuadrado-Properties-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **Metrocuadrado Property Listings Dataset Sample** includes **3,386 records** and was extracted using the **Bright Data API**.
+この **Metrocuadrado Property Listings Dataset Sample** には **3,386件のレコード** が含まれており、**Bright Data API** を使用して抽出されました。
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `url` | The direct URL to the specific property listing on the Metrocuadrado website. |
-| `ID` | A unique identifier assigned to each property listing. |
-| `Precio` | The listed price of the property, either for sale or rent, in local currency. |
-| `Habitaciones` | The total number of bedrooms available in the property. |
-| `Banos` | The total number of bathrooms available in the property. |
-| `Dimension_propiedad` | The total built area of the property in square meters. |
-| `Dimension_terreno` | The total land area of the property in square meters. |
-| `Comuna_Ciudad` | The city or municipal area where the property is located. |
-| `Type1` | The type of property, such as 'Apartamento' or 'Casa lote'. |
-| `Venta_Arriendo` | The transaction type indicating if the property is for sale or rent. |
-| `Nuevo_Usado` | Indicates whether the property is new ('Nuevo') or used ('Usado'). |
-| `Region` | The specific region or neighborhood within the city where the property is located. |
-| `Estrato` | The socioeconomic strata classification of the property location. |
-| `Parqueaderos` | The number of parking spaces available with the property. |
-| `Year` | The age of the property, typically categorized by a range of years. |
-| `Descripcion` | A detailed description of the property's features and amenities. |
-| `Seller` | The name of the individual or company selling or renting the property. |
-| `Tipo_de_vendedor` | The type of seller, such as 'Owner' or 'Agency'. |
-| `Phone1` | Primary contact phone number for inquiries about the property. |
-| `Phone2` | Secondary contact phone number for additional inquiries. |
-| `Email` | Contact email address for inquiries about the property. |
-| `Imagen` | A URL linking to an image of the property. |
-| `URL` | A duplicate field for the direct URL to the property listing. |
-| `company_id` | An identifier for the company listing the property. |
+| `url` | Metrocuadradoウェブサイト上の特定の物件掲載ページへの直接URLです。 |
+| `ID` | 各物件掲載に割り当てられた一意の識別子です。 |
+| `Precio` | 物件の掲載価格（売買または賃貸）で、現地通貨で表されます。 |
+| `Habitaciones` | 物件内の寝室の総数です。 |
+| `Banos` | 物件内の浴室の総数です。 |
+| `Dimension_propiedad` | 物件の延床面積の合計（平方メートル）です。 |
+| `Dimension_terreno` | 物件の土地面積の合計（平方メートル）です。 |
+| `Comuna_Ciudad` | 物件が所在する都市または自治体エリアです。 |
+| `Type1` | 物件種別（例: 'Apartamento' や 'Casa lote'）です。 |
+| `Venta_Arriendo` | 物件が売買か賃貸かを示す取引種別です。 |
+| `Nuevo_Usado` | 物件が新築（'Nuevo'）か中古（'Usado'）かを示します。 |
+| `Region` | 物件が所在する都市内の特定の地域または近隣エリアです。 |
+| `Estrato` | 物件所在地の社会経済階層区分です。 |
+| `Parqueaderos` | 物件に付随する駐車スペースの数です。 |
+| `Year` | 物件の築年数で、通常は年数の範囲で分類されます。 |
+| `Descripcion` | 物件の特徴や設備に関する詳細な説明です。 |
+| `Seller` | 物件を販売または賃貸する個人または企業の名称です。 |
+| `Tipo_de_vendedor` | 売主の種別（例: 'Owner' または 'Agency'）です。 |
+| `Phone1` | 物件に関する問い合わせのための主な連絡先電話番号です。 |
+| `Phone2` | 追加の問い合わせのための副連絡先電話番号です。 |
+| `Email` | 物件に関する問い合わせのための連絡先メールアドレスです。 |
+| `Imagen` | 物件画像へのリンクURLです。 |
+| `URL` | 物件掲載ページへの直接URLの重複フィールドです。 |
+| `company_id` | 物件を掲載している会社の識別子です。 |
 
 
 ## Use Cases
 
-### 1. Real Estate Market Analysis
-Utilize this dataset to identify market trends, pricing strategies, and investment opportunities in different regions.
+### 1. 不動産市場分析
+このデータセットを活用して、市場トレンド、価格戦略、地域別の投資機会を特定できます。
 
-### 2. Competitive Analysis for Real Estate Agents
-Agents can leverage this data to compare property features and prices, enhancing their competitive edge in the marketplace.
+### 2. 不動産エージェント向け競合分析
+エージェントはこのデータを活用して物件の特徴や価格を比較し、市場における競争優位性を高められます。
 
-### 3. Urban Development Research
-Researchers can study urbanization patterns and housing demands, aiding city planners in making informed decisions.
+### 3. 都市開発研究
+研究者は都市化のパターンや住宅需要を調査でき、都市計画担当者が十分な情報に基づく意思決定を行ううえで役立ちます。
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+データセットは複数の形式で利用可能です:
+- **CSV**（このサンプルに含まれます）
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -74,8 +74,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+データセットはさまざまなスケジュールで更新できます:
+- **Once**（一回限りの配信）
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -84,14 +84,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+お客様の具体的な要件に基づき、追加のデータポイントでデータセットを強化できます。カスタムのエンリッチメントオプションについてはお問い合わせください。
 
-**[Get the full Metrocuadrado Property Listings dataset](https://brightdata.com/products/datasets/real-estate)**
+**[Metrocuadrado Property Listings dataset のフル版を入手](https://brightdata.jp/products/datasets/real-estate)**
 
 ---
 
-## Free Access for Researchers and NGOs
+## 研究者およびNGO向けの無料アクセス
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Bright Initiativeは、環境および社会的課題に取り組む学術研究者、NGO、NPO向けに、**[Web Scraper APIs](https://brightdata.jp/products/web-scraper)** および **[すぐに使えるデータセット](https://brightdata.jp/products/datasets)** への無料アクセスを提供しています。 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+無料アクセスの申請は [brightinitiative.com](https://brightinitiative.com) から行えます。
