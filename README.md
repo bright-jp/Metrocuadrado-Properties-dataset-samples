@@ -3,7 +3,7 @@
 <h2>3,386件のレコードからなるサンプルデータセット</h2>
 
 <a href="https://brightdata.jp">
-    <img src="https://github.com/luminati-io/Metrocuadrado-Properties-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-jp/Metrocuadrado-Properties-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 この **Metrocuadrado Property Listings Dataset Sample** には **3,386件のレコード** が含まれており、**Bright Data API** を使用して抽出されました。
